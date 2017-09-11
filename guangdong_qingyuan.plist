@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com299.bake.mce</string>
+				<string>com299.bake.bank</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
